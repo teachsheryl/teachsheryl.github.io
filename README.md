@@ -1,4 +1,4 @@
-Jack's PhD webpage
+Sheryl's tuition webpage
 
 
 from https://github.com/academicpages/academicpages.github.io
