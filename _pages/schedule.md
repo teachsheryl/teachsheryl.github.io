@@ -4,11 +4,9 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-## My Teaching Schedule
-
 Here's my current availability for tutoring sessions:
 
-**[Month, Year]**
+**[February, 2025]**
 
 | Day       | Time                  | Subject               | Availability |
 | :-------- | :-------------------- | :-------------------- | :----------- |
@@ -24,7 +22,7 @@ Here's my current availability for tutoring sessions:
 **How to Book a Session:**
 
 1.  Check the table above for available time slots.
-2.  Send me an email at [your friend's email address] with your preferred date, time, and subject.
+2.  Send me an email at sherylsevilla02@gmail.com with your preferred date, time, and subject.
 3.  I'll confirm your booking within 24 hours.
 
 **Note:**
