@@ -1,8 +1,8 @@
 /* _custom.scss */
 .google-form-container {
     width: 100%;
-    max-width: 1440px;
-    margin: 0;
+    max-width: 640px;
+    margin: 0 auto;
     position: relative;
     padding-bottom: 140%; /* Calculated based on your iframe's aspect ratio */ // 65.94
     height: 0;
