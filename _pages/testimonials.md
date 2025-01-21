@@ -12,14 +12,14 @@ Here are some kind words from my past parents and students:
 
 **Parent's Name:** Bina Sheth (Mother of Disha Sivakumar)  
 **School:** St. Margaret's Secondary School  
-**Subject:** Pure Geography  
+**Subject, Year:** Pure Geography, 2024    
 **GCE O-Level Score:** A1  
 
 ---
 
-> "Sheryl's teaching style is very engaging. She made learning fun and helped me develop a genuine interest in the subject." -- Student
+> "Sheryl's teaching style is very engaging. She made learning fun and helped me develop a genuine interest in the subject." --- Student
 
-> "I was struggling with Math before I started working with Sheryl. Her clear explanations and tailored approach really helped me improve my grades." -- Parent
+> "I was struggling with Math before I started working with Sheryl. Her clear explanations and tailored approach really helped me improve my grades." --- Parent
 
 **Student's Name:** Sarah Lim  
 **Parent's Name:**  Mother Lim  
