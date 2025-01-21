@@ -18,4 +18,4 @@ Pure Chemistry
 Pure Biology  
 Additional Mathematics  
 Elementary Mathematics  
-Geography/SS (Combined)  
+Geography/Social Studies (Combined)  
