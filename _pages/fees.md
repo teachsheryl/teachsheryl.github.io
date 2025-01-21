@@ -4,6 +4,9 @@ title: "Fees"
 permalink: /fees/
 ---
 
-Here insert fees
-
-Primary $40/hr, sec 1-2 $50, sec 3-4 $60/hr
+| Education Level  | Fees (per Hour) |
+| :--------------- | :-------------- |
+| Primary          | 50              |
+| Lower Secondary  | 60              |
+| Upper Secondary  | 65              |
+| Blank            | 1000            |
