@@ -22,7 +22,7 @@ Here are some kind words from my past parents and students:
 > "I was struggling with Math before I started working with Sheryl. Her clear explanations and tailored approach really helped me improve my grades." -- Parent
 
 **Student's Name:** Sarah Lim  
-**Parent's Name:**  Mother Lim
+**Parent's Name:**  Mother Lim  
 **School:** Raffles Girls' Secondary School  
 **Subject:** Pure Geography  
 **EOY/O/NA Level Score:** A2  
