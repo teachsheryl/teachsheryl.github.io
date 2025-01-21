@@ -5,3 +5,6 @@ main:
 
   - title: "Schedule"
     url: /schedule/
+
+  - title: "Fees"
+    url: /fees/
