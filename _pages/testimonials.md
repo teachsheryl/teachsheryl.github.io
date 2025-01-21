@@ -4,16 +4,16 @@ title: "Testimonials"
 permalink: /testimonials/
 ---
 
-Here are some kind words from my past students:
+Here are some kind words from my past parents and students:
 
 ---
 
 > "Ms Sheryl tutored my daughter for pure geography in Sec 4.  The techniques and cut to the chase approach made lessons concise & easier to grasp. I saw a significant improvement in her understanding of the topics and answering techniques. My daughter's grades were usually Bs & Cs, however, for her O levels she secured an A1!"
 
-**Parent Name:** Bina Sheth (Mother of Disha Sivakumar)
-**School:** St. Margaret's Secondary School
-**Subject:** Pure Geography
-**GCE O-Level Score:** A1
+**Parent Name:** Bina Sheth (Mother of Disha Sivakumar)  
+**School:** St. Margaret's Secondary School  
+**Subject:** Pure Geography  
+**GCE O-Level Score:** A1  
 
 ---
 
