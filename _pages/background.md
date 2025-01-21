@@ -7,7 +7,7 @@ permalink: /background/
 **University**: Nanyang Technological University  
 **Major**: Environmental Earth System Science  
 
-**Subject Combination (JC):**  
+**Subject Combination (Junior College):**  
 H2 Mathematics  
 H2 Chemistry  
 H2 Biology  
