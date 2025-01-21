@@ -17,10 +17,13 @@ Here are some kind words from my past parents and students:
 
 ---
 
-> "Sheryl's teaching style is very engaging. She made learning fun and helped me develop a genuine interest in the subject."
+> "Sheryl's teaching style is very engaging. She made learning fun and helped me develop a genuine interest in the subject." -- Student
+> "I was struggling with Math before I started working with Sheryl. Her clear explanations and tailored approach really helped me improve my grades." -- Parent
 
 **Student Name:** Sarah Lim  
+**Parent Name:**  Mother Lim
 **School:** Raffles Girls' Secondary School  
+**Subject:** Pure Geography  
 **EOY/O/NA Level Score:** A2  
 
 ---
