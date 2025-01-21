@@ -4,28 +4,17 @@ title: "Background"
 permalink: /background/
 ---
 
-**Education**
+**University**: Nanyang Technological University  
+**Major**: Environmental Earth System Science  
+**Subject Combination (JC):**
+H2 Mathematics  
+H2 Chemistry  
+H2 Biology  
+H1 Geography  
 
-**Nanyang Technological University**
-
-*   **Major:** Environmental Earth System Science
-
-**Junior College Subject Combination (A-Levels Equivalent)**
-
-*   **H2 Level (Higher 2):**
-    *   Mathematics
-    *   Chemistry
-    *   Biology
-*   **H1 Level (Higher 1):**
-    *   Geography
-
-**Secondary School Subject Combination (O-Levels Equivalent)**
-
-*   **Sciences:**
-    *   Pure Chemistry
-    *   Pure Biology
-*   **Mathematics:**
-    *   Additional Mathematics
-    *   Elementary Mathematics
-*   **Humanities:**
-    *   Geography/Social Studies (Combined)
+**Subject Combination (Secondary):**
+Pure Chemistry  
+Pure Biology  
+Additional Mathematics  
+Elementary Mathematics  
+Geography/SS (Combined)  
