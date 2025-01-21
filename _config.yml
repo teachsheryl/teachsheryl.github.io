@@ -21,7 +21,7 @@ repository               : "teachsheryl/teachsheryl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jack_profile.jpg"
+  avatar           : "sheryl_profile.jpg"
   name             : "Sheryl Sevilla"
   pronouns         : # example: "she/her"  
   bio              : "Final Year Environmental Science Undergraduate at NTU"
