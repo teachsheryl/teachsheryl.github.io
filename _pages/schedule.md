@@ -20,7 +20,7 @@ Here's my current availability for tutoring sessions:
     <tr>
       <td rowspan="2">Geography</td>
       <td>Secondary 3</td>
-      <td>Tuesday 3pm-5pm<br>Wednesday 10am-12pm</td>
+      <td style="white-space: nowrap;">Tuesday 3pm-5pm<br>Wednesday 10am-12pm</td>
     </tr>
     <tr>
       <td>Secondary 4/5</td>
