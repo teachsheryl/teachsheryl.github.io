@@ -11,8 +11,8 @@ Here's my current availability for tutoring sessions:
 <table style="border-collapse: collapse; width: 100%; font-size: 13px;">
   <thead style="border-bottom: 2px solid black;">
     <tr>
-      <th style="width: 28%;">Subject</th>
-      <th style="width: 32%;">Education Level</th>
+      <th style="width: 30%;">Subject</th>
+      <th style="width: 30%;">Education Level</th>
       <th style="width: 40%;">Date/Time</th>
     </tr>
   </thead>
@@ -23,7 +23,7 @@ Here's my current availability for tutoring sessions:
       <td style="white-space: nowrap;">Tuesday 3pm-5pm<br>Wednesday 10am-12pm</td>
     </tr>
     <tr>
-      <td>Secondary 4/5</td>
+      <td style="white-space: nowrap;">Secondary 4/5</td>
       <td></td>
     </tr>
     <tr>
