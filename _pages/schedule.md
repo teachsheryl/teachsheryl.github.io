@@ -17,51 +17,48 @@ Here's my current availability for tutoring sessions:
 | E Math     | Secondary 4     |           |
 | Math       | Secondary 2     |           | -->
 
----
-layout: single
-title: "Schedule"
-permalink: /schedule/
----
-
-Here's my current availability for tutoring sessions:
-
 **[June, 2025]**
 
-<table>
-  <tr>
-    <th>Subject</th>
-    <th>Education Level</th>
-    <th>Date/Time</th>
-  </tr>
-  <tr>
-    <td rowspan="2">Geography</td>
-    <td>Secondary 3</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Secondary 4</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td rowspan="2">A Math</td>
-    <td>Secondary 3</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Secondary 4</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>E Math</td>
-    <td>Secondary 4</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Math</td>
-    <td>Secondary 2</td>
-    <td></td>
-  </tr>
+<table style="border-collapse: collapse; width: 100%;">
+  <thead style="border-bottom: 2px solid black;">
+    <tr>
+      <th>Subject</th>
+      <th>Education Level</th>
+      <th>Date/Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Geography</td>
+      <td>Secondary 3</td>
+      <td>Tuesday 3-5pm</td>
+    </tr>
+    <tr>
+      <td>Secondary 4</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">A Math</td>
+      <td>Secondary 3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Secondary 4</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>E Math</td>
+      <td>Secondary 4</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Math</td>
+      <td>Secondary 2</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
+
 
 
 
