@@ -5,8 +5,8 @@ permalink: /schedule/
 ---
 
 Here's my current availability for tutoring sessions:
-
-<!-- **[June, 2025]** -->
+<!-- 
+**[June, 2025]** -->
 
 <iframe 
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNj0nhW1nS3an3Y8E5JPyq_xakh368C2Nk0r4xwtph-CsQCxWMXV-xId25FARbvOanwjm0fy_pY4W5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
@@ -25,7 +25,13 @@ Here's my current availability for tutoring sessions:
 
 **[June, 2025]**
 
-<table style="border-collapse: collapse; width: 100%;">
+<iframe 
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNj0nhW1nS3an3Y8E5JPyq_xakh368C2Nk0r4xwtph-CsQCxWMXV-xId25FARbvOanwjm0fy_pY4W5/pubhtml?gid=1745429309&amp;single=true&amp;widget=true&amp;headers=false"
+  width="100%" 
+  height="400">
+</iframe>
+
+<!-- <table style="border-collapse: collapse; width: 100%;">
   <thead style="border-bottom: 2px solid black;">
     <tr>
       <th>Subject</th>
@@ -63,10 +69,7 @@ Here's my current availability for tutoring sessions:
       <td></td>
     </tr>
   </tbody>
-</table>
-
-
-
+</table> -->
 
 **How to Book a Session:**
 
