@@ -8,7 +8,7 @@ Here's my current availability for tutoring sessions:
 
 **[June, 2025]**
 
-<table style="border-collapse: collapse; width: 100%; font-size: 13px;">
+<table style="border-collapse: collapse; width: 100%; font-size: 13px; text-align: center;">
   <thead style="border-bottom: 2px solid black;">
     <tr>
       <th>Subject</th>
@@ -20,7 +20,7 @@ Here's my current availability for tutoring sessions:
     <tr>
       <td rowspan="2">Geography</td>
       <td>Secondary 3</td>
-      <td>Tuesday 3-5pm<br>Wednesday 10-12pm</td>
+      <td>Tuesday 3pm-5pm<br>Wednesday 10am-12pm</td>
     </tr>
     <tr>
       <td>Secondary 4/5</td>
@@ -51,7 +51,8 @@ Here's my current availability for tutoring sessions:
 <iframe 
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNj0nhW1nS3an3Y8E5JPyq_xakh368C2Nk0r4xwtph-CsQCxWMXV-xId25FARbvOanwjm0fy_pY4W5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
   width="100%" 
-  height="520">
+  height="520"
+  style="margin-top: 10px;">
 </iframe>
 
 <!-- | Subject    | Education Level | Date/Time |
