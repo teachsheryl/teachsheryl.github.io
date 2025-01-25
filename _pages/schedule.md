@@ -5,8 +5,8 @@ permalink: /schedule/
 ---
 
 Here's my current availability for tutoring sessions:
-<!-- 
-**[June, 2025]** -->
+
+**[June, 2025]**
 
 <table style="border-collapse: collapse; width: 100%;">
   <thead style="border-bottom: 2px solid black;">
@@ -23,7 +23,7 @@ Here's my current availability for tutoring sessions:
       <td>Tuesday 3-5pm</td>
     </tr>
     <tr>
-      <td>Secondary 4</td>
+      <td>Secondary 4/5</td>
       <td></td>
     </tr>
     <tr>
