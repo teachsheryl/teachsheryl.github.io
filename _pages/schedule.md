@@ -8,14 +8,61 @@ Here's my current availability for tutoring sessions:
 
 **[June, 2025]**
 
-| Subject    | Education Level | Date/Time |
+<!-- | Subject    | Education Level | Date/Time |
 |------------|-----------------|-----------|
 | <td rowspan="2">Geography</td> | Secondary 3 |           |
 |            | Secondary 4     |           |
 | <td rowspan="2">A Math</td>  | Secondary 3 |           |
 |            | Secondary 4     |           |
 | E Math     | Secondary 4     |           |
-| Math       | Secondary 2     |           |
+| Math       | Secondary 2     |           | -->
+
+---
+layout: single
+title: "Schedule"
+permalink: /schedule/
+---
+
+Here's my current availability for tutoring sessions:
+
+**[June, 2025]**
+
+<table>
+  <tr>
+    <th>Subject</th>
+    <th>Education Level</th>
+    <th>Date/Time</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Geography</td>
+    <td>Secondary 3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Secondary 4</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">A Math</td>
+    <td>Secondary 3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Secondary 4</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>E Math</td>
+    <td>Secondary 4</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Math</td>
+    <td>Secondary 2</td>
+    <td></td>
+  </tr>
+</table>
+
 
 
 **How to Book a Session:**
