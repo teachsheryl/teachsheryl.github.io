@@ -27,7 +27,7 @@ Here's my current availability for tutoring sessions:
       <td></td>
     </tr>
     <tr>
-      <td rowspan="2">A Math</td>
+      <td rowspan="2">Additional Math</td>
       <td>Secondary 3</td>
       <td></td>
     </tr>
@@ -36,7 +36,7 @@ Here's my current availability for tutoring sessions:
       <td></td>
     </tr>
     <tr>
-      <td>E Math</td>
+      <td>Elementary Math</td>
       <td>Secondary 4</td>
       <td></td>
     </tr>
