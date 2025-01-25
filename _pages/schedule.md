@@ -8,10 +8,50 @@ Here's my current availability for tutoring sessions:
 <!-- 
 **[June, 2025]** -->
 
+<table style="border-collapse: collapse; width: 100%;">
+  <thead style="border-bottom: 2px solid black;">
+    <tr>
+      <th>Subject</th>
+      <th>Education Level</th>
+      <th>Date/Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Geography</td>
+      <td>Secondary 3</td>
+      <td>Tuesday 3-5pm</td>
+    </tr>
+    <tr>
+      <td>Secondary 4</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">A Math</td>
+      <td>Secondary 3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Secondary 4</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>E Math</td>
+      <td>Secondary 4</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Math</td>
+      <td>Secondary 2</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 <iframe 
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNj0nhW1nS3an3Y8E5JPyq_xakh368C2Nk0r4xwtph-CsQCxWMXV-xId25FARbvOanwjm0fy_pY4W5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
   width="100%" 
-  height="400">
+  height="500">
 </iframe>
 
 <!-- | Subject    | Education Level | Date/Time |
@@ -23,13 +63,11 @@ Here's my current availability for tutoring sessions:
 | E Math     | Secondary 4     |           |
 | Math       | Secondary 2     |           | -->
 
-**[June, 2025]**
-
-<iframe 
+<!-- <iframe 
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNj0nhW1nS3an3Y8E5JPyq_xakh368C2Nk0r4xwtph-CsQCxWMXV-xId25FARbvOanwjm0fy_pY4W5/pubhtml?gid=1745429309&amp;single=true&amp;widget=true&amp;headers=false"
   width="100%" 
   height="400">
-</iframe>
+</iframe> -->
 
 <!-- <table style="border-collapse: collapse; width: 100%;">
   <thead style="border-bottom: 2px solid black;">
