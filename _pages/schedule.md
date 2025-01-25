@@ -6,18 +6,16 @@ permalink: /schedule/
 
 Here's my current availability for tutoring sessions:
 
-**[February, 2025]**
+**[June, 2025]**
 
-| Day       | Time                  | Subject               | Availability |
-| :-------- | :-------------------- | :-------------------- | :----------- |
-| Monday    | 9:00 AM - 11:00 AM   | Math                  | Available    |
-| Monday    | 2:00 PM - 4:00 PM    | Science               | Booked       |
-| Tuesday   | 10:00 AM - 12:00 PM  | English               | Available    |
-| Wednesday | 9:00 AM - 11:00 AM   | Math                  | Available    |
-| Wednesday | 2:00 PM - 4:00 PM    | Science               | Available    |
-| Thursday  | 10:00 AM - 12:00 PM  | English               | Available    |
-| Friday    | 9:00 AM - 11:00 AM   | Math                  | Booked       |
-| Friday    | 2:00 PM - 4:00 PM    | Science               | Available    |
+| Subject   	| Education Level 	| Date/Time 	|
+|-----------	|-----------------	|-----------	|
+| Geography 	| Secondary 3     	|           	|
+|           	| Secondary 4     	|           	|
+| A Math    	| Secondary 3     	|           	|
+|           	| Secondary 4     	|           	|
+| E Math    	| Secondary 4     	|           	|
+| Math      	| Secondary 2     	|           	|
 
 **How to Book a Session:**
 
