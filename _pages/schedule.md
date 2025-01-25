@@ -8,7 +8,7 @@ Here's my current availability for tutoring sessions:
 
 **[June, 2025]**
 
-<table style="border-collapse: collapse; width: 100%; font-size: 13.5px;">
+<table style="border-collapse: collapse; width: 100%; font-size: 13px;">
   <thead style="border-bottom: 2px solid black;">
     <tr>
       <th>Subject</th>
