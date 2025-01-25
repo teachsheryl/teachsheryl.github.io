@@ -51,7 +51,7 @@ Here's my current availability for tutoring sessions:
 <iframe 
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNj0nhW1nS3an3Y8E5JPyq_xakh368C2Nk0r4xwtph-CsQCxWMXV-xId25FARbvOanwjm0fy_pY4W5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
   width="100%" 
-  height="500">
+  height="520">
 </iframe>
 
 <!-- | Subject    | Education Level | Date/Time |
