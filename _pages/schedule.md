@@ -8,7 +8,7 @@ Here's my current availability for tutoring sessions:
 
 **[June, 2025]**
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%; font-size: 15px;">
   <thead style="border-bottom: 2px solid black;">
     <tr>
       <th>Subject</th>
@@ -20,7 +20,7 @@ Here's my current availability for tutoring sessions:
     <tr>
       <td rowspan="2">Geography</td>
       <td>Secondary 3</td>
-      <td>Tuesday 3-5pm</td>
+      <td>Tuesday 3-5pm<br>Wednesday 10-12pm</td>
     </tr>
     <tr>
       <td>Secondary 4/5</td>
