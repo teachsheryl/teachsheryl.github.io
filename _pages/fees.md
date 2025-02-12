@@ -9,4 +9,4 @@ permalink: /fees/
 | Primary          | 50              |
 | Lower Secondary  | 60              |
 | Upper Secondary  | 65              |
-| Blank            | 1000            |
+| Blank            | 100             |
