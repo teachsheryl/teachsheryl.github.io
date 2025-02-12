@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Sheryl's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sheryl Sevilla"
 description              : &description "personal description"
 url                      : "https://teachsheryl.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   name             : "Sheryl Sevilla"
   pronouns         : # example: "she/her"  
   bio              : "Final Year Environmental Science Undergraduate at NTU"
-  location         : "singapore"
+  location         : "Singapore"
   employer         : # example: NUS
   uri              : # URL
   email            : "sherylsevilla02@gmail.com" 
