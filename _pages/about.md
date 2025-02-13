@@ -18,3 +18,5 @@ I am Sheryl Sevilla, a 4th-year Environmental Science student at Nanyang Technol
 <div class="google-form-container">
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfbTb5A1ExhbgerrwnKw7TEizOgd-RW1v75WAlYUll_U-Hc2A/viewform?embedded=true" width="640" height="2531" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfbTb5A1ExhbgerrwnKw7TEizOgd-RW1v75WAlYUll_U-Hc2A/viewform?usp=dialog" target="_blank">Fill out our form</a>
